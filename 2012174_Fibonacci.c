@@ -1,3 +1,6 @@
+/* C CODE TO FIND THE Nth FIBONACCI NUMBER, WHEN N IS LARGE...
+By TUSHAR RATHI(Scholar ID 2012174)*/
+
 #include <stdio.h>
 void add(char n1[], char n2[], char result[])
 {
